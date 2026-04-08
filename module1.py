@@ -1,4 +1,4 @@
-from main import all
+from main1 import all
 from module import mul, div
 def operations():
     m, d = mul(10, 5), div(5, 10)
